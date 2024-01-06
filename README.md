@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sdevkhile
-- 👀 I’m interested in exploring new things..
-- 🌱 I’m currently learning Python, ML, AI, SQL , MongodB..   
-- 💞️ I’m looking to collaborate on Python and ML projects.
+- 👀 I’m interested in exploring new things..  
+- 💞️ I’m looking to collaborate on Data Analytics and Data Science projects.
 - 📫 How to reach me - EmailID : sdevkhil@gmail.com
 
 <!---
